@@ -1,0 +1,13 @@
+{
+    "data" : [
+        "CustomerNumber" : "007",
+        "FirstName" : "Amruta" ,
+        "LastName" : "Birar" ,
+        "OfficePhone" : "234244221" ,
+        "MobilePhone" : "231-234-555" ,
+        "HomePhone" : null ,
+        "Department" : "Cybersecurity",
+        "PrimaryEmail" : "amu.bir@gmail.xyz",
+        "SecondaryEmail" : "null"
+    ]
+}
